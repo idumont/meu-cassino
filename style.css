@@ -48,14 +48,17 @@ button:hover{
 
 #rock{
     background-color: #15f379;
+    cursor: pointer;
 }
 
 #paper{
     background-color: #ec425f;
+    cursor: pointer;
 }
 
 #scissors{
     background-color: #6f10c7;
+    cursor: pointer;
 }
 
 h1{
